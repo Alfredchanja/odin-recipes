@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h3 {
+    color: rgb(237, 164, 95);
+}
+
+h2,
+.ingredient-colors,
+.procedure-colors {
+    color: rgb(101, 58, 52);
+}
